@@ -4,19 +4,19 @@
     "url": "https://www.threadingclouds.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.threadingclouds.com.ico",
     "slug": "prod",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 352,
-    "timeDay": 293,
-    "timeWeek": 395,
+    "timeDay": 300,
+    "timeWeek": 393,
     "timeMonth": 367,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2023-07-18": 0
+      "2023-07-18": 7
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://preview.threadingclouds.com",
     "icon": "https://icons.duckduckgo.com/ip3/preview.threadingclouds.com.ico",
     "slug": "staging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 333,
-    "timeDay": 247,
-    "timeWeek": 344,
+    "timeDay": 264,
+    "timeWeek": 345,
     "timeMonth": 347,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2023-07-18": 0
+      "2023-07-18": 7
     }
   }
 ]
