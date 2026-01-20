@@ -22,9 +22,9 @@
     "url": "https://preview.threadingclouds.com",
     "icon": "https://icons.duckduckgo.com/ip3/preview.threadingclouds.com.ico",
     "slug": "staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 155,
     "timeMonth": 165,
     "timeYear": 171,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-20": 0
+    }
   }
 ]
